@@ -20,11 +20,10 @@ This project showcases how machine learning can classify fruits using simple fea
 ```
 fruit-classifier/
 ├── README.md
-├── requirements.txt
-├── decision-tree/
+├── decision-tree-classifier/
 │   ├── fruit_classifier_dt.py
 │   └── README.md
-└── random-forest/
+└── random-forest-classifier/
     ├── fruit_classifier_rf.py
     └── README.md
 ```
@@ -272,5 +271,6 @@ This is an educational project. Feel free to use and modify for learning purpose
 Built with scikit-learn and matplotlib. Perfect for anyone beginning their machine learning journey!
 
 ---
+
 
 **Happy Learning! Start with Decision Tree, then explore Random Forest to see the power of ensemble methods! 🍎🍊🍌🥝**
