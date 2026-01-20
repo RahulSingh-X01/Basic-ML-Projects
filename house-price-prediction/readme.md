@@ -50,7 +50,7 @@ When you run the script for the first time, it will:
 6. Export test data to `input.csv`
 
 ```bash
-python house-price-prediction2.py
+python house-price-prediction.py
 ```
 
 Output:
@@ -68,7 +68,7 @@ Once the model is trained, the script automatically switches to inference mode:
 4. Saves results to `output.csv`
 
 ```bash
-python house-price-prediction2.py
+python house-price-prediction.py
 ```
 
 Output:
@@ -186,5 +186,6 @@ model = GradientBoostingRegressor(random_state=42)
 This project is for educational purposes.
 
 ## Author
+
 
 Created as a machine learning practice project using scikit-learn.
